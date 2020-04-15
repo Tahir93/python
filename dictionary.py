@@ -6,3 +6,4 @@ print(list_in_dictionary["name"][1])
 
 dictionary_in_dictionary = {"Data":{"name":"Tahir", "age":26}}
 print(dictionary_in_dictionary["Data"]["age"])
+
