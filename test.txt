@@ -1,2 +1,1 @@
-print("Hello World")
-updating the remote url
+This is new text written in append mode
